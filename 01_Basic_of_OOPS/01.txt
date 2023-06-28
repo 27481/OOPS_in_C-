@@ -1,0 +1,24 @@
+What is OOPs ?
+
+OOPs is a methodology or paraidgm to design a program using 
+classes and objects 
+
+4 Pillars of OOPs 
+
+1> Data Abstraction ->    Show only the required things to the user and hide the implementation (we acchieve it by access modifiers)
+
+2> Data Encapsulation -> closing multiple dataType into a single unit (we acchieve it by using classes)
+
+3> Inheritance -> When one class Inherit some properties from its parent class (just like we inherit some freatures from our parents)
+
+4> Polymorphism  -> Poly means many , morph means forms i.e (acchieving different 
+                    functionality using same code ) like(overloading , overridding)
+
+
+
+Access modifiers -> Class has a concept of access modifiers 
+                    They are of 3 types
+                
+                    1> Public  -> anyone can access from outside 
+                    2> Private  -> no one can access it from outside 
+                    3> Protected -> no one can access it but can be inherited 
