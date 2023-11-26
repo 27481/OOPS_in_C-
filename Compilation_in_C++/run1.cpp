@@ -1,14 +1,9 @@
 #include<iostream>
+#include<string>
 #include<bits/stdc++.h>
 using namespace std;
 
-/* 
-heap memory -> real time memory 
-stack memory -> compile time memory 
-*/
-
-
 int main(){
-            
+    string s="abc";
     return 0;
 }
